@@ -13,7 +13,8 @@ $(document).ready(function() {
     $('#student').text(classroom[current] + ': ' + (current + 1));
   } else {
     classroom = [
-      'Aaaaaaah', 
+      'not a student',
+      'not another student',
       'Abdul Barre',
       'Alex Griep',
       'Ashley Wegwerth',
