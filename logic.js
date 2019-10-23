@@ -12,6 +12,8 @@ $(document).ready(function() {
     $('#random').hide();
     $('#student').text(classroom[current] + ': ' + (current + 1));
   } else {
+    console.log('hey');
+
     classroom = [
       'Abdul Barre',
       'Alex Griep',
