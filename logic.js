@@ -14,6 +14,7 @@ $(document).ready(function() {
   } else {
     classroom = [
       'Bbbbbbbahhhh', 
+      'not a student',
       'Abdul Barre',
       'Alex Griep',
       'Ashley Wegwerth',
